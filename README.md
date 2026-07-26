@@ -1,3 +1,4 @@
 # testripo02
 test ripo revision. 
-file editing
+ReadMe file editing.
+Adding a new file.
